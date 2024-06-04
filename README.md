@@ -12,7 +12,7 @@ let data = [
         "groupName": '',         // String
         "titleKey": '',          // String, must start with "el_"
         "titleName": '',         // String
-        "capitalTitleKey": '',   // String
+        "capitalTitleKey": '',   // String, must start with "el_"
         "capitalTitleName": '',  // String
         "element": [
             {
