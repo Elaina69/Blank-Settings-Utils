@@ -1,0 +1,19 @@
+{
+  "name": "blank-settings-utils",
+  "version": "1.0.0",
+  "description": "A utility to create blank settings tab",
+  "main": "Settings-Utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elaina69/Blank-Settings-Utils.git"
+  },
+  "author": "Elaina Da Catto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elaina69/Blank-Settings-Utils/issues"
+  },
+  "homepage": "https://github.com/Elaina69/Blank-Settings-Utils#readme"
+}
